@@ -17,7 +17,7 @@ class Header extends Component {
 
     return (
       <header id="home">
-      <ParticlesBg type="circle" bg={true} />
+      <ParticlesBg color='#858585' num={75} type="cobweb" bg={true} />
       <nav id="nav-wrap">
          <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
 	      <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
@@ -38,8 +38,9 @@ class Header extends Component {
             <h3>{description}.</h3>
             <hr />
             <ul className="social">
-               <a href={project} className="button btn project-btn"><i className="fa fa-book"></i>Project</a>
-               <a href={github} className="button btn github-btn"><i className="fa fa-github"></i>Github</a>
+               {/* <a href={project} className="button btn project-btn"><i className="fa fa-file"></i>Resume</a>
+               <a href={github} className="button btn github-btn"><i className="fa fa-github"></i>Github</a> */}
+               {networks}
             </ul>
          </div>
       </div>
@@ -48,7 +49,7 @@ class Header extends Component {
          <a className="smoothscroll" href="#about"><i className="icon-down-circle"></i></a>
       </p>
 
-   </header>
+      </header>
     );
   }
 }

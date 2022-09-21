@@ -1,46 +1,46 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Alec Cumming",
+    "description":"I am a software developer and computer science student. I am a great team player and am always eager to learn about new technologies. My specialties are in web development using technologies including JavaScript, ReactJS and NodeJS",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "email": "alecgcumming@gmail.com",
+    "phone": "604-842-5385",
+    "github":"https://github.com/aleccumming",
+    "project":"https://github.com/aleccumming",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"350 Moyne Dr",
+      "city":"West Vancouver",
+      "state":"BC",
+      "zip": "V7S 1J5"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://www.facebook.com/alec.cummando/",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/alecgc15",
         "className":"fa fa-twitter"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/alec-cumming-6008801a8/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/alec.gc/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/aleccumming",
         "className":"fa fa-github"
       }
     ]
@@ -49,30 +49,30 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
+        "school":"University of British Columbia",
+        "degree":"Bachelor of Science, Computer Science",
+        "years":"September 2017 - present",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Bizkinnect LLC",
+        "title":"Full Stack Developer",
+        "years":"September 2020 - December 2020",
+        "description":"Worked with the existing prototype of a web-based software application and brought it to a state of market readiness. Technologies included AWS, JavaScript, NodeJS, ExpressJS, ReactJS, and MySQL."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Capilano Suspension Bridge Park",
+        "title":"Groundskeeper and Facilities Worker",
+        "years":"June 2019 - September 2019",
+        "description":"Completed daily inspection and maintenance of attractions. Primary duties included leaf blowing, power washing and general cleaning prior to opening. Also completed weekly transportation of supplies across the bridge."
+      },
+      {
+        "company":"St. Catherines Church",
+        "title":"Maintenance Worker",
+        "years":"July 2018 - September 2018",
+        "description":"Completed maintenance and general upkeep of the church grounds. Primary duties included moving furniture, painting, and junk deliveries."
       }
     ],
     "skills":[
