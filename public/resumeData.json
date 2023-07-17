@@ -51,7 +51,7 @@
       {
         "school":"University of British Columbia",
         "degree":"Bachelor of Science, Computer Science",
-        "years":"September 2017 - present",
+        "years":"September 2017 - May 2023",
         "description":"As a student athlete, I have learned to work hard in practice and be accountable for my performance. This experience has helped me develop strong communication skills and a team-oriented mentality. Additionally, through my years of playing baseball, I have been able to acquire qualities like time management that are useful in any workplace environment. Finally, my specialization in computer science has made me eager to learn more about programming languages, development software, and production infrastructure. These are all areas of growing interest for me as I continue my education as a growing software engineer."
       }
     ],
@@ -59,7 +59,7 @@
       {
         "company":"Bit Quill Technologies",
         "title":"Software Developer 1",
-        "years":"May 2022 - Present",
+        "years":"May 2022 - January 2023",
         "description":"I contributed to the release of a JDBC driver for Amazon Aurora. I implemented a plugin which enables users to connect to their Amazon Aurora clusters using AWS Identity and Access Management (IAM). Additionally, I authored a comprehensive user configuration guide for this IAM Authentication plugin. Technologies I used include Java, Amazon Aurora, Gradle, and GitHub Actions."
       },
       {
