@@ -19,29 +19,24 @@
     "resumedownload":"resume.pdf",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/alec.cummando/",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"https://twitter.com/alecgc15",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/alec-cumming-6008801a8/",
         "className":"fa fa-linkedin"
       },
       {
+        "name": "resume",
+        "url": "files/resume.pdf",
+        "className": "fa fa-file"
+      },
+      {
+        "name":"email",
+        "url":"mailto: alecgcumming@gmail.com",
+        "className":"fa fa-envelope"
+      },
+      {
         "name":"instagram",
         "url":"https://www.instagram.com/alec.gc/",
         "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"https://github.com/aleccumming",
-        "className":"fa fa-github"
       }
     ]
   },
@@ -60,19 +55,19 @@
         "company":"Bit Quill Technologies",
         "title":"Software Developer 1",
         "years":"May 2022 - January 2023",
-        "description":"I contributed to the release of a JDBC driver for Amazon Aurora. I implemented a plugin which enables users to connect to their Amazon Aurora clusters using AWS Identity and Access Management (IAM). Additionally, I authored a comprehensive user configuration guide for this IAM Authentication plugin. Technologies I used include Java, Amazon Aurora, Gradle, and GitHub Actions."
+        "description":"During my tenure at Bit Quill Technologies, I played a pivotal role in the development and continuous enhancement of the JDBC driver for Amazon Aurora. This involved a multifaceted approach, encompassing code reviews, bug resolution, performance optimization, and addressing customer issues. A significant achievement during my time there was the creation of a vital plugin, which permitted users to securely connect to Amazon Aurora clusters through AWS Identity and Access Management (IAM). In addition to this, I took the initiative to craft a comprehensive user configuration guide for this newly devised IAM Authentication plugin, ensuring that users could seamlessly configure and harness the power of this cutting-edge security feature. My involvement in this project showcased my proficiency in a range of technologies, including Java, C++, Amazon Aurora, and GitHub Actions, and underscored my commitment to delivering high-quality solutions in the realm of software engineering."
       },
       {
         "company":"Absolute Software",
         "title":"Associate QA Automation Engineer",
         "years":"January 2021 - September 2021",
-        "description":"I created a variety of Python tools used for automation including collecting data from performance tests and posting data to confluence. I collaborated closely with Development and Program Management to address any issues and resolve configuration troubles. Additionally, I worked on the general maintenance and improvement of the automation framework. Technologies I used include Java, Python, Jenkins, and Docker."
+        "description":"While working at at Absolute Software, I assumed a dynamic role that revolved around optimizing our software engineering processes. A key contribution was the development of Python automation tools aimed at enhancing the efficiency of data collection from performance tests and automating data posting to Confluence. This initiative not only improved data accuracy but also resulted in significant time savings for the team, fostering better collaboration and knowledge sharing. In addition, I took the lead in coordinating the migration of our legacy testing suite, where I played a pivotal role in introducing component testing methodologies to bolster software quality assurance. My role involved close collaboration with the Development and Program Management teams, working hand in hand to identify and resolve issues and ensure the seamless execution of our automation processes. Throughout these endeavors, I leveraged a versatile skill set encompassing Java, Python, Jenkins, and Docker to drive innovation and enhance our software engineering capabilities."
       },
       {
         "company":"Bizkinnect LLC",
         "title":"Full Stack Developer",
         "years":"September 2020 - December 2020",
-        "description":"I worked on the development of the back end and the front end of web-based application using JavaScript, NodeJS, ExpressJS, and React. Implemented the modification of software based on customer feedback reviews. Technologies I used include JavaScript, React, Node, AWS Lambda, and MySQL."
+        "description":"In my role at Bizkinnect, I had the opportunity to work on a dynamic web-based application where I was responsible for the full-stack development, encompassing both front-end and back-end components. Leveraging my expertise in JavaScript, Node.js, Express.js, and React, I ensured the seamless and intuitive user experiences that were central to our product's success. Collaborating closely with cross-functional teams, I played a pivotal role in implementing software enhancements driven by valuable customer feedback, leading to significant improvements in product usability and overall satisfaction. Additionally, I designed and implemented RESTful APIs, which served as a vital bridge between our front-end and back-end systems, resulting in enhanced data flow and superior system performance. My technology stack encompassed a wide range of tools, including JavaScript, React.js, Node.js, AWS Lambda, and MySQL, providing me with a versatile toolkit to deliver exceptional solutions."
       }
     ],
     "projects":[
@@ -80,31 +75,31 @@
         "name":"UBC LaunchPad: Workout Personalizer",
         "tech":"Flutter/TypeScript",
         "years":"September 2021 - May 2022",
-        "description":"UBC LaunchPad club web application for a smoother workout experience. On this project I implemented a UI displaying a list of exercises that a user can select. I also implemented an Express backend to fetch data from a PostgreSQL database. Additionally, I mentored junior developers that were working on their first web application and contributed to weekly team discussions about application features and design."
+        "description":"I played a pivotal role in the development of a fitness-focused web application as part of the UBC LaunchPad club. My primary contributions encompassed the creation of an intuitive user interface featuring a dynamic catalog of exercises, enhancing the user experience by simplifying exercise selection for fitness routines. To ensure seamless data retrieval, I constructed a robust Express.js backend, optimizing its efficiency in fetching exercise data from a PostgreSQL database. Moreover, I actively collaborated with a group of junior developers, offering valuable mentorship and guidance throughout their maiden venture into web application development. My commitment extended to participating in weekly team discussions, contributing to decisions about application features and design, and fostering a collaborative and dynamic development environment."
       },
       {
         "name":"InsightUBC Query Application",
         "tech":"TypeScript",
         "years":"September 2021 - December 2021",
-        "description":"Course project to query about information regarding UBC courses and classrooms. I created a local test suite using Mocha/Chai to catch inserted mutation in the code base. I implemented an HTML parser to extract the requested information for the user submitted query. Additionally, I created HTTP endpoints to add, remove, list, and query datasets."
+        "description":"In a collaborative class project centered around querying information about UBC courses and classrooms, I contributed to enhancing the project's functionality and reliability. To bolster code robustness, I developed a comprehensive local test suite leveraging Mocha and Chai, which not only identified but effectively captured mutations within the codebase, ensuring a higher level of code reliability and error-free performance. To streamline data extraction from web sources and reduce manual data processing efforts, I designed and implemented a custom HTML parser, greatly enhancing our ability to extract the requested information efficiently. In addition, I contributed to the project by constructing a set of HTTP endpoints, which facilitated seamless dataset management, enabling users to effortlessly add, remove, and query datasets. These contributions collectively advanced the project's capabilities, delivering a more robust and user-friendly experience for our audience."
       },
       {
         "name":"Jammming",
         "tech":"JavaScript",
         "years":"February 2020 - April 2020",
-        "description":"Part of the 'Build Front-End Web Applications from Scratch' course on Codecademy. Designed a user interface for a web application that allows users to add songs to their Spotify playlists. Interfaced with the Spotify API to fetch songs on Spotify and add them to a playlist."
+        "description":"During my participation in the 'Build Front-End Web Applications from Scratch' course on Codecademy, I designed a user-friendly front-end interface and developed a web application. This application seamlessly integrates with Spotify, enabling users to add songs to their playlists. By utilizing the Spotify API, I connected our app to Spotify's extensive music library, allowing users to easily search for and select songs by their favorite artists and genres. I also implemented real-time data fetching from the Spotify API to ensure users had access to the latest music offerings. This project highlighted my technical skills and commitment to user-centered software engineering solutions."
       },
       {
         "name":"Doodle Jump Clone",
         "tech":"Java",
         "years":"December 2019 - January 2020",
-        "description":"A clone of the popular iPhone app, Doodle Jump. I implemented the dictation of player movement and collision detection together with gravity. I implemented a camera abstraction to allow for continuous climbing. I used event listeners to utilize mouse and keyboard handling for character navigation."
+        "description":"One of my early solo projects in software engineering was creating a Doodle Jump clone, inspired by the popular iPhone app. In this project, I gained valuable experience in mobile game development, implementing player controls and collision detection for a solid gaming experience. I also introduced a basic gravity system and a camera abstraction to support continuous climbing. Handling user input through event listeners, I aimed to provide an enjoyable gaming experience and learned valuable lessons in the process."
       },
       {
         "name":"Travelling Salesman Problem",
         "tech":"Haskell",
         "years":"September 2019 - December 2019",
-        "description":"An implementation of the well-known Travelling Salesman Problem. We used Eerke Boiten's Travelling Salesman Heuristics as a basis for the function implementations. We compared a brute force search with a distance matrix to represent a map of the towns and a nearest neighbour heuristic search allowing for a near optimal and efficient solution by travelling to the nearest town."
+        "description":"In a fascinating project centered on solving the Traveling Salesman Problem using Haskell, I demonstrated a robust command of functional programming and algorithmic problem-solving. Leveraging Eerke Boiten's Travelling Salesman Heuristics as a foundational framework, I showcased a deep understanding of existing algorithms and their practical applications. To offer a comprehensive solution, I meticulously implemented two distinct approaches: a brute force search algorithm using a distance matrix representation of towns and a nearest neighbor heuristic search algorithm, both aimed at achieving efficient and near-optimal route planning. To ensure the code's readability and maintainability, I capitalized on Haskell's functional programming features, including pattern matching and list comprehensions. This project not only underscored my commitment to excellence in algorithm design but also highlighted my expertise in functional programming, further solidifying my reputation as a skilled software engineer."
       }
     ],
     "skills":[
