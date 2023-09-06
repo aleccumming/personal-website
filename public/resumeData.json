@@ -24,11 +24,6 @@
         "className":"fa fa-linkedin"
       },
       {
-        "name": "resume",
-        "url": "files/resume.pdf",
-        "className": "fa fa-file"
-      },
-      {
         "name":"email",
         "url":"mailto: alecgcumming@gmail.com",
         "className":"fa fa-envelope"
