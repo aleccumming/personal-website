@@ -19,29 +19,24 @@
     "resumedownload":"resume.pdf",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/alec.cummando/",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"https://twitter.com/alecgc15",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/alec-cumming-6008801a8/",
         "className":"fa fa-linkedin"
       },
       {
+        "name": "resume",
+        "url": "files/resume.pdf",
+        "className": "fa fa-file"
+      },
+      {
+        "name":"email",
+        "url":"mailto: alecgcumming@gmail.com",
+        "className":"fa fa-envelope"
+      },
+      {
         "name":"instagram",
         "url":"https://www.instagram.com/alec.gc/",
         "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"https://github.com/aleccumming",
-        "className":"fa fa-github"
       }
     ]
   },
