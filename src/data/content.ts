@@ -17,6 +17,7 @@ export const profile = {
 export const liveProjects = [
   { name: 'Golf Practice Tracker', href: 'https://golf.alecgcumming.com', label: 'golf.alecgcumming.com' },
   { name: 'Fantasy Hockey Tools', href: 'https://fh-tools.alecgcumming.com', label: 'fh-tools.alecgcumming.com' },
+  { name: 'Poker Night', href: 'https://poker.alecgcumming.com', label: 'poker.alecgcumming.com' },
 ] as const
 
 export type Role = {
@@ -122,6 +123,19 @@ export const projects: Project[] = [
       'Players are ranked by C-Score, a composite metric built from underlying stats correlated with fantasy production.',
       "Roster-fit for streaming pickups is solved as a maximum bipartite matching problem (Kuhn's algorithm) to correctly account for daily lineup changes and multi-position eligibility.",
       'A goalie win-probability model uses the log5 method over season, home/road, and recent-form splits, shrunk to avoid early-season noise.',
+    ],
+  },
+  {
+    name: 'Poker Night',
+    years: '2026',
+    summary:
+      'A full-stack mobile web app for live poker games, letting every player track buy-ins from their own phone with sub-3-second sync and no accounts or login required.',
+    live: { href: 'https://poker.alecgcumming.com', label: 'poker.alecgcumming.com' },
+    repo: 'https://github.com/aleccumming/poker-night',
+    stack: ['React', 'TypeScript', 'Vercel Functions', 'Postgres (Neon)'],
+    highlights: [
+      'A shared reducer architecture drives both client-side state and server-side SQL from the same typed actions, verified by tests that replay full game sessions through both paths and check they match.',
+      'An automatic settle-up engine reconciles chip-count discrepancies proportionally across winners, with integer-cent precision and a guarantee that no winner ever nets a loss.',
     ],
   },
   {
